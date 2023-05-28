@@ -1,7 +1,7 @@
 import React from 'react';
 import { Formik, Field, Form } from 'formik';
 import PropTypes from 'prop-types';
-import { ReactComponent as Search } from '../Images/search.svg';
+import { ReactComponent as Search } from '../../Images/search.svg';
 
 const initialValues = {
   query: '',
